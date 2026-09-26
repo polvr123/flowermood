@@ -1,0 +1,10 @@
+# mediapipe depends on opencv-contrib-python; installing plain opencv-python
+# alongside it corrupts the cv2 install and breaks imshow silently.
+opencv-contrib-python==4.10.0.84
+mediapipe==0.10.14
+fer==22.5.1
+numpy==1.26.4
+moviepy==1.0.3
+tensorflow==2.16.2
+protobuf==4.25.9
+setuptools<81
