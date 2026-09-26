@@ -3,6 +3,9 @@
 .vscode/
 .idea/
 
+# Not for the repo
+docs/mood_garden_spec.pdf
+
 # --- Unity (unity/My project/) ---
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 unity/*/[Ll]ibrary/
